@@ -6,8 +6,8 @@
 #=========================================================================================
 
 base_url = "https://paperthin-bioinfo.work"
-title = "test title"
-description = "xxxx xxxx xxxx"
+title = "ぺらぺらのバイオインフォマティクス"
+description = "製薬会社に務めるバイオインフォマティシャンが技術について書くブログ"
 default_language = "ja"
 theme = "serene"
 output_dir = "public"
@@ -44,7 +44,7 @@ anchors = "on"
 sections = [
   { name = "posts", path = "/posts", is_external = false },
   # { name = "tags", path = "/tags", is_external = false },
-  # { name = "github", path = "https://github.com/<your-username>", is_external = true },
+  { name = "github", path = "https://github.com/ban-m", is_external = true },
 ]
 blog_section_path = "/posts"
 

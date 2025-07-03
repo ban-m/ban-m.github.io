@@ -1,6 +1,6 @@
 +++
-title = "Blog title"
-description = "My blog site."
+title = "ぺらぺらのバイオインフォマティクス"
+description = "ブログ記事が並んでいるページ"
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
@@ -10,8 +10,8 @@ generate_feeds = true
 [extra]
 lang = "ja"
 
-title = "Posts"
-subtitle = "ここに説明を書く"
+title = "記事一覧"
+subtitle = ""
 
 date_format = "%b %-d, %Y"
 
