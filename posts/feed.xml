@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+	<title>ぺらぺらのバイオインフォマティクス</title>
+	<subtitle>ブログ記事が並んでいるページ</subtitle>
+	<link href="https://paperthin-bioinfo.work/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://paperthin-bioinfo.work/posts/"/>
+	<updated>2025-06-06T00:00:00+00:00</updated>
+	<id>https://paperthin-bioinfo.work/posts/feed.xml</id>
+	<entry xml:lang="ja">
+		<title>テストページ</title>
+		<published>2025-06-06T00:00:00+00:00</published>
+		<updated>2025-05-05T00:00:00+00:00</updated>
+		<link href="https://paperthin-bioinfo.work/posts/test/" type="text/html"/>
+		<id>https://paperthin-bioinfo.work/posts/test/</id>
+		<content type="html">&lt;p&gt;new post about something...&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

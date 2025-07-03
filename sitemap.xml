@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://paperthin-bioinfo.work/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/categories/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/categories/one/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/posts/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/posts/test/</loc>
+        <lastmod>2025-05-05</lastmod>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/tags/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/tags/one/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/tags/three/</loc>
+    </url>
+    <url>
+        <loc>https://paperthin-bioinfo.work/tags/two/</loc>
+    </url>
+</urlset>
